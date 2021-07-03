@@ -1,0 +1,181 @@
+body{
+	margin:0;
+	padding:0;
+}
+ul{
+	list-style:none;
+}
+a:hover{
+	text-decoration:none;
+}
+.logo-area{
+	padding: 42px 0px;
+}
+.main-menu ul li{
+	display:inline-block;
+	padding: 40px 0px;
+}
+.main-menu ul li a{
+	color: #333;
+	font-size:24px;
+	padding: 40px 39px;
+}
+.header-top{
+	background:#F6F9F9;
+}
+.image-area{
+	background-image:url("images/strictimage.png");
+	height:800px;
+	text-align:center;
+}
+.image-area h1{
+	font-size:120px;
+	color: #fff;
+    padding-top: 130px;
+}
+.image-area hr{
+	border-top:none;
+	border-right:none;
+	border-left:none;
+	border-bottom:5px solid #15A4FA;
+	width:40%;
+}
+.image-area p{
+	color:#fff;
+	font-size: 20px;
+}
+.call-to-action-header a{
+	font-size:20px;
+	padding: 10px 40px;
+	color:#fff;
+	margin-top:30px;
+	display:inline-block;
+	border-radius:5px;
+	background:#15A4FA;
+    margin-top:80px;
+}
+.arrow i{
+	margin-top:220px;
+    color:#fff;
+}	
+.design-area h2{
+	text-align:center;
+	padding-top:50px;
+}	
+.design-area p{
+	text-align:center;
+	color:#A7A8A8;
+	font-size: 20px;
+}
+.box {
+	text-align:center;
+	margin-top:50px;
+}
+.box h2{
+	font-size:22px;
+	padding-top:20px;
+}
+.box p{
+	font-size:15px;
+	color:#A7A8A8;
+}
+.service-area{
+    margin-bottom: 80px;
+}
+.service-area h2{
+	text-align:center;
+	padding-top:100px;
+}
+.service-area p{
+	text-align:center;
+	color:#A7A8A8;
+	font-size: 15px;
+}
+.contact-area h2{
+	text-align:center;
+	padding-top:50px;
+	color:#fff;
+}
+.contact-area p{
+	text-align:center;
+	color:#A7A8A8;
+	font-size: 15px;
+	padding-bottom: 40px;
+	
+}
+.username input{
+	margin-left: 360px;
+    margin-right: 190px;
+    width: 40%;
+    padding: 10px;
+	border:1px solid white;
+	background:transparent;
+	color:#fff;
+	margin-bottom: 15px;
+}
+textarea{
+	margin-left: 360px;
+    margin-right: 190px;
+    width: 40%;
+    padding: 10px;
+	border:1px solid white;
+	background:transparent;
+	color:#fff;
+}
+.call-to-action-cont input{
+	margin-left:702px;
+}
+.contact-area{
+	background-image:url("images/c1.png");
+}
+.call-to-action-cont input{
+	background:transparent;
+	font-size:20px;
+	padding: 5px 33px;
+	color:#fff;
+	border:1px solid #15A4FA;
+	margin-top:15px;
+	border-radius:5px;
+}
+.contact-boxes{
+	margin-bottom:80px;
+}
+.social-link ul{
+	margin-top:40px;
+	padding:0;
+	list-style:none;
+	text-align:center;
+}
+.social-link ul li{
+	display:inline-block;
+}
+.social-link ul li a{
+	color:#fff;
+	padding:5px 10px;
+	display:block;
+	background:#15A4FA;
+	font-size:18px;
+	margin-left:8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
